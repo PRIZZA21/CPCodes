@@ -1,0 +1,1 @@
+{"name":"Local: PythagoreanTriple","url":"/Users/priyanshujayant/Documents/CPcodes/week2/PythagoreanTriple.cpp","tests":[{"id":1713204659585,"input":"3\n3\n6\n9\n","output":"0\n1\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/priyanshujayant/Documents/CPcodes/week2/PythagoreanTriple.cpp","group":"local","local":true}
